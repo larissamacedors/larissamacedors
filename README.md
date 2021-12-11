@@ -27,9 +27,8 @@
 ### Reach me 
 
 - [Portfólio](https://sites.google.com/view/larissamacedo)
-
 - [LinkedIn](https://linkedin.com/in/larissa-macedo-rosa-silva-98381b16a)
-- 
+
 
   
  
