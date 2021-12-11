@@ -2,16 +2,14 @@
 
 - 👋 Hi, I’m Larissa Macedo @larissamacedors
 - 🎓 Bachelor's Degree in Civil Engineering and MEng in Structures 
-- 📖 I’m currently learning Data Analysis, Data Visualization and Python
 - 📫 How to reach me (larissamacedors@gmail.com)
 
 ##
 
-### Studies & Skills
+### Studies & Skills 
 
 - Power Bi
 - Data Visualization
-- SQL
 - MySQL / PostgreSQL
 - Python
 - R (basic)
