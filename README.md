@@ -6,7 +6,7 @@
 
 ##
 
-### Studies & Skills 
+### Studies & Skills
 
 - Power Bi
 - Data Visualization
