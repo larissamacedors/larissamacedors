@@ -20,7 +20,8 @@
 
 ### Works
 
--[Exploratory Data Analysis - House Rent]()
+-[Exploratory Data Analysis - House Rent](https://github.com/larissamacedors/EDA_rent)]
+-[Data Visualization - Sales Products Price]()
 
 ##
 
