@@ -1,12 +1,14 @@
-### About me
+### Who am I ? 
 
 - 👋 Hi, I’m Larissa Macedo @larissamacedors
-- 🎓 Bachelor's Degree in Civil Engineering and MEng in Structures 
+- 👩🏻‍🎓 Bachelor of Civil Engineering (UFES)
+- 🎓 Master in Structure Engineering (PUC-Rio)
+- 📊 Current studying Data Analysis
 - 📫 How to reach me (larissamacedors@gmail.com)
 
 ##
 
-### Studies & Skills
+### Studies & Skills 📚
 
 - Power Bi
 - Data Visualization
@@ -16,14 +18,14 @@
 
 ##
 
-### Works
+### Works 📄
 
 - [Exploratory Data Analysis - House Rent](https://github.com/larissamacedors/EDA_rent)
 - [Data Visualization - Sales Products Price]()
 
 ##
 
-### Reach me 
+### Find me around 📍
 
 - [Portfólio](https://sites.google.com/view/larissamacedo)
 - [LinkedIn](https://linkedin.com/in/larissa-macedo-rosa-silva-98381b16a)
