@@ -1,8 +1,8 @@
 ### Who am I ? 
 
 - 👋 Hi, I’m Larissa Macedo @larissamacedors
-- 👩🏻‍🎓 Bachelor of Civil Engineering (UFES)
-- 🎓 Master in Structure Engineering (PUC-Rio)
+- 👩🏻‍🎓 Bachelor's Degree in Civil Engineering (UFES)
+- 🎓 MSc. Structural Engineering (PUC-Rio)
 - 📊 Current studying Data Analysis
 - 📫 How to reach me (larissamacedors@gmail.com)
 
