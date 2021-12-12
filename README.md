@@ -20,8 +20,8 @@
 
 ### Works 📄
 
-- [Exploratory Data Analysis - House Rent](https://github.com/larissamacedors/EDA_rent)
-- [Data Visualization - Sales Products Price]()
+- [Exploratory Data Analysis - House Rent](https://github.com/larissamacedors/exploratory_data_analysis_rent)
+- [Data Visualization - Faturamento de Vendas](https://github.com/larissamacedors/data_visualization_projects/tree/main/projeto%201%20-%20faturamento%20de%20vendas)
 
 ##
 
