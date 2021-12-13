@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Larissa Macedo @larissamacedors
 - 👩🏻‍🎓 Bachelor's Degree in Civil Engineering (UFES)
 - 🎓 Master's Degree in Structural Engineering (PUC-Rio)
-- 📊 Current studying Data Analysis
+- 📊 Currently studying Data Analysis
 - 📫 How to reach me (larissamacedors@gmail.com)
 
 ##
