@@ -29,7 +29,7 @@
 ### Find me around 📍
 
 - [Portfólio](https://sites.google.com/view/larissamacedo)
-- [LinkedIn](https://linkedin.com/in/larissa-macedo-rosa-silva-98381b16a)
+- [LinkedIn](https://www.linkedin.com/in/larissamacedors/)
 
 
   
