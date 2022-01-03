@@ -22,6 +22,7 @@
 
 - [Exploratory Data Analysis - House Rent](https://github.com/larissamacedors/exploratory_data_analysis_rent)
 - [Exploratory Data Analysis - Airbnb London](https://github.com/larissamacedors/exploratory_data_analysis_airbnb)
+- [Exploratory and Data Visualization - Netflix](https://github.com/larissamacedors/EDA_DV_netflix)
 - [Data Visualization - Faturamento de Vendas](https://github.com/larissamacedors/data_visualization_projects/tree/main/projeto%201%20-%20faturamento%20de%20vendas)
 
 ##
